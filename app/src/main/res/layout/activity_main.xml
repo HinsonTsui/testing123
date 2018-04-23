@@ -45,6 +45,16 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
+        android:text="Hi"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
         android:text="Hello"
         tools:layout_editor_absoluteX="96dp"
         tools:layout_editor_absoluteY="401dp" />
